@@ -14,7 +14,7 @@ intructions. The two algorithms available are First Come First
 Serve (FCFS) and Shortest Job First (SFJ).
 
 ## Installation
-N/A
+Requires C compiler.
 
 ## Credits
 This code was created by Luis K. Pena with the assistance
